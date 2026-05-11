@@ -29,7 +29,7 @@ Building workspace requires the following tools:
 Get the source code:
 
 ```shell
-git clone git@github.com:[SheldanChen/CHallENge-WritingRobot.git](https://github.com/XiaodanChenSheldan/CHallENge-WritingRobot.git)
+git clone git@github.com:XiaodanChenSheldan/CHallENge-WritingRobot.git
 ```
 
 Download chinese traditional dataset
